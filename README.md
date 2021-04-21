@@ -1,4 +1,6 @@
 # major-react-project
 
+Creating an online clothing store with authentication with Firebase, state management with Redux, payments with Stripe
 
-A project to practice my React skills and expand on Firebase, Redux, Stripe Payments, and much more...
+To do:
+- Intrigrate stripe payments
